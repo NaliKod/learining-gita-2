@@ -1,0 +1,34 @@
+
+.splash {
+    height: 100vh;
+    position: relative;
+    background-image: url('https://images.pexels.com/photos/1431822/pexels-photo-1431822.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    flex-direction: column;
+    
+}
+
+.song{
+    margin: 0 100px;
+
+}
+.song  h1 {
+    font-family: 'Open Sans';
+    font-style: italic;
+    position: relative;
+    font-size: 30px;
+    margin: 48px 0 0 0;
+}
+
+.song  h2 {
+    font-size: 10px;
+    font-family:'Josefin Sans';
+}
+
+.song  p {
+    font-size: 20px;
+    font-family:'Josefin Sans';
+    line-height: 1.6;
+}
