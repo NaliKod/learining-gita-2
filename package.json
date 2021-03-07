@@ -18,9 +18,7 @@
   },
   "homepage": "https://github.com/NaliKod/learining-gita-2#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.14"
-  },
-  "dependencies": {
+    "browser-sync": "^2.26.14",
     "html-validate": "^4.6.1"
   }
 }
