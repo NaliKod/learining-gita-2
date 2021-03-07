@@ -1,1 +1,1 @@
-html-validate --ext html,vue src
+html-validate *.html
